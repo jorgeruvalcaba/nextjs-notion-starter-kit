@@ -12,7 +12,7 @@ module.exports = {
   author: 'Jorge Ruvalcaba',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: "Jorge Ruvalcaba's Piece of Internet",
   socialImageTitle: 'Jorge Ruvalcaba',
   socialImageSubtitle: 'Tabs & Spaces',
 
